@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Door_Glow
+  m_Shader: {fileID: 4800000, guid: 70bfe3fa29f69c1428426bd8c0b79626, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: e1e922de3c25c444198703b68fc5beab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 8bc5461fc0092284d8bf2a644ad91e22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: f13517ee924ac6043a526d5dd9181789, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _cc1eedd318b249658199ac29d0845b6d:
+        m_Texture: {fileID: 2800000, guid: 36e0302ff2d85304ea15c96deaf2b893, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bias: 0
+    - _Dissolve: 6.084421
+    - _Float0: 0.39
+    - _Float2: 0.23
+    - _Offset: 0.14
+    - _OffsetValue: 0.23
+    - _Opacity_Strength: 0.1
+    - _Range: 8.9
+    - _Rimlight: 1.5
+    - _Scale: 0.1
+    - _Thickness: 0.13
+    - __dirty: 0
+    m_Colors: []

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:ProjetUnity/Assets/VFX_Test/Materials/UI_Trail_Gauge.mat.meta
+guid: d8d94a2d5b025154ca5e7d1aadfd707d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+=======
+guid: 3979cc6a43ef9fe4b9c8e191aef00506
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+>>>>>>> 33f0e964486f5315d6cd1d588ffa15ca039ec15d:ProjetUnity/Assets/Animation/Warren/Warren_Run.anim.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

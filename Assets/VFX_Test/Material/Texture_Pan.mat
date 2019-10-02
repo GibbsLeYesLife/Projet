@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Texture_Pan
+  m_Shader: {fileID: 4800000, guid: c4161a006c2cdcd44960e9856bca2d63, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BT_Warren_TXT_Albedo:
+        m_Texture: {fileID: 2800000, guid: d5c48a5763c301946b35d43168ac7679, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BT_Warren_TXT_Ao:
+        m_Texture: {fileID: 2800000, guid: f8f2fe1d8e517784ca873b64ff474c2d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BT_Warren_TXT_Metallic_Glossiness:
+        m_Texture: {fileID: 2800000, guid: 3f640d0d5b92c0045a1bb4623620cdd2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BT_Warren_TXT_Normal:
+        m_Texture: {fileID: 2800000, guid: 1dbc46d626ebb6e498df86b060eb4cae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Machine_Rouleau_Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Machine_Rouleau_Roughness:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Dissolve: 6.084421
+    - _Float0: 2
+    - _OffsetValue: 0
+    - _Range: 16.48606
+    - __dirty: 0
+    m_Colors:
+    - _GlowColor: {r: 0, g: 1.582753, b: 3.435294, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}

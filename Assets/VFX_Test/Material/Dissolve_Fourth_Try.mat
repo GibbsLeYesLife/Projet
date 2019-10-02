@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Dissolve_Fourth_Try
+  m_Shader: {fileID: 4800000, guid: 0035356067153f045aae3c1828a6de04, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Tiling_Noise:
+        m_Texture: {fileID: 2800000, guid: b51a20d4daf88cb47a4761d87a406244, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _cc1eedd318b249658199ac29d0845b6d:
+        m_Texture: {fileID: 2800000, guid: 36e0302ff2d85304ea15c96deaf2b893, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+<<<<<<< HEAD
+    - _Dissolve: 0
+=======
+    - _Dissolve: 1.5
+>>>>>>> 7e171f33a33102ba6cf87b47ac483d6b6e907f22
+    - _OffsetValue: 0
+    - _Range: 16.48606
+    - _Speed: 2
+    - __dirty: 0
+    m_Colors:
+    - _GlowColor: {r: 0, g: 1.582753, b: 3.435294, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}

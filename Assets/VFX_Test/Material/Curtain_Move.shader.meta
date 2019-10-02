@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 360bb44a83cebfd4c89e157b266d2d89
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _rideau_normal: {fileID: 2800000, guid: 3fba3465ab116a5419ffdb21c2d4e505, type: 3}
+  - _TextureSample0: {fileID: 2800000, guid: d89eac6cc2e570643b49a9a0768a90c0, type: 3}
+  - _Rideau_Roughness: {fileID: 2800000, guid: 122593ce057e9684188233e7a25e4f30, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
