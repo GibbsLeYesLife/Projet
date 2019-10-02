@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Splash
-  m_Shader: {fileID: 4800000, guid: 44d60662589ab864b98d7d76a1e6169d, type: 3}
+  m_Name: Torus_Portal_Vertex_Offset
+  m_Shader: {fileID: 4800000, guid: 176124bb1962622429e0a772e35a739c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
@@ -71,23 +71,22 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _OffsetValue: 0
+    - _OffsetValue: 0.3
     - _Parallax: 0.02
     - _Power_Fresnel: 0
     - _Scale_Fresnel: 5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed_Panner_Chunk: 2
+    - _Speed_Panner_Chunk: -3
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
-    - _Albedo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GlowColor: {r: 2.270603, g: 0.55846703, b: 0, a: 0}
-    - _Speed_Noise_1: {r: 5, g: 0, b: 0, a: 0}
-    - _Speed_Noise_2: {r: 10, g: 10, b: 0, a: 0}
+    - _GlowColor: {r: 3.435294, g: 0.38764632, b: 0, a: 0}
+    - _Speed_Noise_1: {r: 3, g: -3, b: 0, a: 0}
+    - _Speed_Noise_2: {r: 2, g: 0, b: 0, a: 0}
     - _Tiling_Noise_1: {r: 5, g: 5, b: 0, a: 0}
-    - _Tiling_Noise_2: {r: 10, g: 10, b: 0, a: 0}
+    - _Tiling_Noise_2: {r: 2, g: 2, b: 0, a: 0}
