@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f2f3db70f1477aa43aef1b9273d59a68
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Lu_Noise_01: {fileID: 2800000, guid: 6ca5b2e608f86e14d88db87d75ba2f41, type: 3}
+  - _TextureSample0: {fileID: 2800000, guid: 6ca5b2e608f86e14d88db87d75ba2f41, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
