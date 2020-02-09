@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Lu_Noise_01:
-        m_Texture: {fileID: 2800000, guid: 8167dd3e273ef0d44a326834715fa0db, type: 3}
+        m_Texture: {fileID: 2800000, guid: 14776e1fcbc9b804fb8873fb4173c30c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TexturePrincipale:
@@ -68,7 +68,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
-        m_Texture: {fileID: 2800000, guid: 6ca5b2e608f86e14d88db87d75ba2f41, type: 3}
+        m_Texture: {fileID: 2800000, guid: 15d3bdd335d3eb64986a7e3c3c9c8ea6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
