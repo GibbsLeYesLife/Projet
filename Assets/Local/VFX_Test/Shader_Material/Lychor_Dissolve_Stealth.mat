@@ -63,12 +63,24 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: e72c24387fcdea8459984a6ba3cffb65, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp_Lighting:
+        m_Texture: {fileID: 2800000, guid: 091aed8ca4d12e4438ba8743f5592c99, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _T_Lu_Noise_02:
-        m_Texture: {fileID: 2800000, guid: b51a20d4daf88cb47a4761d87a406244, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1cc7c8f54ac3f934eaf70c0e7a831a64, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Lu_Noise_09:
         m_Texture: {fileID: 2800000, guid: d700dfdaae9f94a459c31181b819588f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: dd2fd2df93418444c8e280f1d34deeb5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
@@ -88,18 +100,28 @@ Material:
     - _Color_2_Power: 0
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _Dissolve: 2.5
+    - _Dissolve: 0.2
     - _DstBlend: 0
+    - _EdgeLength: 15
     - _Edge_Size: 0.54
-    - _Edge_Size_1: 0.53
+    - _Edge_Size_1: 1
     - _Edge_Size_2: 0.17
     - _Emission: 1.45
+    - _Emissive: 3
     - _Emissive_Power: 0.56
-    - _Float0: 0.77
+    - _Emissive_Strength: 5
+    - _Final_Power: 1.3
+    - _Float0: 0.34
+    - _Float2: 0.16
+    - _Float3: 1
+    - _Fresnel_Power: 21.06
+    - _Fresnel_Scale: 10
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _Max_Smooth: 0.55
     - _Metallic: 0
+    - _Min_Smooth: 0.49
     - _Mode: 0
     - _Noise_Power: 5
     - _OcclusionStrength: 1
@@ -109,6 +131,8 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _TessPhongStrength: 0.5
+    - _TessValue: 15
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 0
@@ -116,19 +140,21 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Emissive_Color: {r: 0.82988584, g: 5.331387, b: 0.9207357, a: 0}
-    - _Emissive_Color_1: {r: 0.82988584, g: 5.331387, b: 0.9207357, a: 0}
+    - _Emissive_Color_1: {r: 0.48144734, g: 5.3719406, b: 0.57257485, a: 0}
     - _Emissive_Color_2: {r: 0, g: 0, b: 0, a: 0}
+    - _Fresnel_Color: {r: 0.517978, g: 1.1320755, b: 0.851182, a: 0}
     - _GlowColor: {r: 0, g: 1.582753, b: 3.435294, a: 0}
+    - _Light_Color: {r: 0.735849, g: 0.735849, b: 0.735849, a: 0}
     - _Main_Noise_Speed: {r: 0, g: 0.5, b: 0, a: 0}
-    - _Main_Noise_Tile: {r: 2.5, g: 2.5, b: 0, a: 0}
+    - _Main_Noise_Tile: {r: 4, g: 5, b: 0, a: 0}
     - _Second_Noise_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _Second_Noise_Tile: {r: 1, g: 1, b: 0, a: 0}
     - _Speed_Noise_1: {r: 3, g: 1, b: 0, a: 0}
     - _Speed_Noise_2: {r: 2, g: 0, b: 0, a: 0}
-    - _Speed_Second: {r: 0.5, g: 0.3, b: 0, a: 0}
+    - _Speed_Second: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _Ti: {r: 1, g: 1, b: 0, a: 0}
     - _Tile_: {r: 1, g: 1, b: 0, a: 0}
-    - _Tile_Second: {r: 2, g: 2, b: 0, a: 0}
+    - _Tile_Second: {r: 1, g: 1, b: 0, a: 0}
     - _Tiling_Noise_1: {r: 5, g: 5, b: 0, a: 0}
     - _Tiling_Noise_2: {r: 1, g: 0, b: 0, a: 0}
     - _Vector0: {r: 0, g: 0, b: 0, a: 0}
