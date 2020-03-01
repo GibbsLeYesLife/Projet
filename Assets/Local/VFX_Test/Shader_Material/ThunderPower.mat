@@ -56,11 +56,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Lu_Noise_01:
-        m_Texture: {fileID: 2800000, guid: 40587724feb2bc844b017426c4d41fbf, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0dad533d8189a8a4c9075ea86e65a73e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
-        m_Texture: {fileID: 2800000, guid: 9a3bcda80cae7b548a944093caec1de1, type: 3}
+        m_Texture: {fileID: 2800000, guid: e4ab7be8e6f0a2c42891b67069253201, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -79,7 +79,7 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _OffsetValue: 1
+    - _OffsetValue: 0
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -90,8 +90,8 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GlowColor: {r: 2.014413, g: 6.9065595, b: 9.71235, a: 0}
-    - _Speed_Noise_1: {r: 1, g: -5, b: 0, a: 0}
-    - _Speed_Noise_Secondary: {r: 1, g: -5, b: 0, a: 0}
-    - _Tiling_Noise_1: {r: 1, g: 1, b: 0, a: 0}
-    - _Tiling_Noise_Secondary: {r: 5, g: 1, b: 0, a: 0}
+    - _GlowColor: {r: 0.50850004, g: 1.7289002, b: 2.4280877, a: 0}
+    - _Speed_Noise_1: {r: 0.5, g: 1, b: 0, a: 0}
+    - _Speed_Noise_Secondary: {r: 0.1, g: 1, b: 0, a: 0}
+    - _Tiling_Noise_1: {r: 5, g: 5, b: 0, a: 0}
+    - _Tiling_Noise_Secondary: {r: 1, g: 1, b: 0, a: 0}
