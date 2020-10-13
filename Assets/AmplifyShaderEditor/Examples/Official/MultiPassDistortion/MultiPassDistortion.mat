@@ -43,4 +43,4 @@ Material:
       second: {r: 0.5294118, g: 1, b: 0.6689655, a: 1}
     - first:
         name: _IntersectionColor
-      second: {r: 0.48529398, g: 0.48884356, b: 1, a: 0}
+      second: {r: 0.48529398, g: 0.4888435, b: 1, a: 0}

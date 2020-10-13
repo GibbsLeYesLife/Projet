@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water_Toon
+  m_Shader: {fileID: 4800000, guid: d892c5139a0d46a4997b96a7e2b94187, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise5:
+        m_Texture: {fileID: 2800000, guid: e1d6ce7cfc6c3b84bb463cc234bb28ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Lu_Noise_01:
+        m_Texture: {fileID: 2800000, guid: 55e1deb75560ace49b1b0ef035e1d83f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Lu_Noise_2:
+        m_Texture: {fileID: 2800000, guid: 14776e1fcbc9b804fb8873fb4173c30c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: f0af31512c2dc6e4b8e6fb0f9f576f58, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 15d3bdd335d3eb64986a7e3c3c9c8ea6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Angle_Speed: 1
+    - _Animation_Offset: 0
+    - _Animation_Offset1: 0
+    - _BumpScale: 1
+    - _Cell_Density: 15
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Dissolve: 0.4
+    - _DistanceFade: 0.259
+    - _DistanceFade2: 0.259
+    - _DstBlend: 0
+    - _Emission: -0.41
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OffsetValue: 0.05
+    - _OffsetValue1: 0.1
+    - _Parallax: 0.02
+    - _Ripple_Power: 10
+    - _Smoothness: 0
+    - _Smoothness2: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Step_Intensity: 0.28
+    - _Threshold: 0.13
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _Albedo: {r: 0.018066933, g: 0.018066933, b: 0.13207549, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_Global: {r: 0.2134678, g: 0.24986625, b: 0.44807103, a: 1}
+    - _Color_Global2: {r: 0.2134678, g: 0.24986625, b: 0.44807103, a: 1}
+    - _Color_Intersect: {r: 0.5728907, g: 0.6280816, b: 0.7735849, a: 1}
+    - _Color_Intersect2: {r: 0.5728907, g: 0.6280816, b: 0.7735849, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Ripple_Color: {r: 0.32616088, g: 0.33487007, b: 1.5973521, a: 0}
+    - _Speed_Noise_1: {r: 0.1, g: 0, b: 0, a: 0}
+    - _Speed_Noise_2: {r: -1, g: 0, b: 0, a: 0}
+    - _Speed_Noise_Secondary: {r: 0.1, g: -0.1, b: 0, a: 0}
+    - _Speed_Noise_Secondary1: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling_Noise_1: {r: 4, g: 8, b: 0, a: 0}
+    - _Tiling_Noise_2: {r: 1, g: 2, b: 0, a: 0}
+    - _Tiling_Noise_Secondary: {r: 10, g: 10, b: 0, a: 0}
+    - _Tiling_Noise_Secondary1: {r: 1, g: 1, b: 0, a: 0}

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 83431ce131148ef42b82872a9f7f3854
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -2612862799451086914
+    second: AN_AlBasir_Motion_Walk_FW_RM_03
+  - first:
+      74: 8097348615958387509
+    second: AN_AlBasir_Attacks_Combo_XYYY_03_Hit_2_RM
+  - first:
+      74: -5642210143891242543
+    second: AN_AlBasir_Attacks_Combo_XXXX_01_Hit_1_RM
+  - first:
+      74: -8515452618245483186
+    second: AN_AlBasir_Attacks_Combo_XXXX_01_Hit_2_RM
+  - first:
+      74: -8151465903924452864
+    second: AN_AlBasir_Attacks_Combo_XXXX_01_Hit_3_RM
+  - first:
+      74: 304741310014933291
+    second: AN_AlBasir_Attacks_Combo_YYY_02_Hit_1_RM
+  - first:
+      74: -1422231295643826206
+    second: AN_AlBasir_Attacks_Combo_YYY_02_Hit_2_RM
+  - first:
+      74: -1502491769344742411
+    second: AN_AlBasir_Attacks_Combo_YYY_02_Hit_3_RM
+  - first:
+      74: 767690562852856450
+    second: AN_AlBasir_Attacks_Combo_XYYY_03_Hit_1_RM
+  - first:
+      74: -3734761654128958505
+    second: AN_AlBasir_Attacks_Combo_XYYY_03_Hit_3_RM
+  - first:
+      74: -812445386824866239
+    second: AN_AlBasir_Attacks_Combo_XXYYY_04_Hit_1_RM
+  - first:
+      74: 6760334752311208665
+    second: AN_AlBasir_Attacks_Combo_XXYYY_04_Hit_2_RM
+  - first:
+      74: -8764759138843016004
+    second: AN_AlBasir_Attacks_Combo_XXYYY_04_Hit_3_RM
+  - first:
+      74: -6364070809912985596
+    second: AN_AlBasir_Attacks_Combo_XXXYYY_05_Hit_1_RM
+  - first:
+      74: 7525192658224228046
+    second: AN_AlBasir_Attacks_Combo_XXXYYY_05_Hit_2_RM
+  - first:
+      74: -834506853259881533
+    second: AN_AlBasir_Attacks_Combo_XXXYYY_05_Hit_3_RM
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

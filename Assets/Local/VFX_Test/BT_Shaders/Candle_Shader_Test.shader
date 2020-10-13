@@ -75,7 +75,7 @@ Shader "Candle_Shader_Test"
 }
 /*ASEBEGIN
 Version=16100
-81;393;1188;506;154.4787;82.95772;1.3;True;False
+573;332;1188;494;154.4787;75.15771;1.3;True;False
 Node;AmplifyShaderEditor.CommentaryNode;69;-1821.853,-304.462;Float;False;1967.032;707.4034;Noise;11;59;16;60;17;4;11;5;18;10;15;71;Noise;1,1,1,1;0;0
 Node;AmplifyShaderEditor.ObjectToWorldTransfNode;59;-1771.853,-177.17;Float;False;1;0;FLOAT4;0,0,0,1;False;5;FLOAT4;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.RangedFloatNode;16;-1376.233,94.43958;Float;False;Constant;_SpeedPann;Speed Pann;2;0;Create;True;0;0;False;0;0.1;0;0;0;0;1;FLOAT;0
@@ -131,4 +131,4 @@ WireConnection;67;0;66;0
 WireConnection;67;1;68;0
 WireConnection;64;2;67;0
 ASEEND*/
-//CHKSM=A3CB88E8C10F5D667054F3C46FC5CF74559B9D06
+//CHKSM=3144D1ECF604DAD12DA4E222049C59E2C16BF844
