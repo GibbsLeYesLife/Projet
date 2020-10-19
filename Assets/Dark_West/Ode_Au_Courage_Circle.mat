@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Build_Up_Trail
-  m_Shader: {fileID: 4800000, guid: 56be5c835c71f0747a3c3936b1c84705, type: 3}
+  m_Name: Ode_Au_Courage_Circle
+  m_Shader: {fileID: 4800000, guid: a86c8f8293e86d2489f567f7086e0c75, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
@@ -39,10 +39,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Gradient_Dissolve:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -51,20 +47,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Noise_First:
+        m_Texture: {fileID: 2800000, guid: d700dfdaae9f94a459c31181b819588f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise_Second:
+        m_Texture: {fileID: 2800000, guid: 363b989b3d79484458552390edb9cbc3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Pack_01_Pack_01_AlbedoTransparency:
-        m_Texture: {fileID: 2800000, guid: c01c57c689c016e43b8ea3d6accbe57d, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Pack_01_Pack_01_MetallicSmoothness:
-        m_Texture: {fileID: 2800000, guid: 8c5a543e6b4080c48a3b76ed7af70ab1, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Pack_01_Pack_01_Normal:
-        m_Texture: {fileID: 2800000, guid: 804388417e492ac40904f23370f3c69e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
@@ -72,23 +64,23 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Lu_Noise_01:
-        m_Texture: {fileID: 2800000, guid: 3ef2750b38b3bf24492daf58c7ec2b57, type: 3}
+        m_Texture: {fileID: 2800000, guid: 58f1c250911e7d843a2b78f2c9c482e7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Lu_Noise_2:
-        m_Texture: {fileID: 2800000, guid: 3ef2750b38b3bf24492daf58c7ec2b57, type: 3}
+        m_Texture: {fileID: 2800000, guid: e4288bf9552f769499966843182c6c8b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
-        m_Texture: {fileID: 2800000, guid: c3a812bedf42c56439718330cacc6483, type: 3}
+        m_Texture: {fileID: 2800000, guid: 30677b1758c46264a937be4de4514e22, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample1:
-        m_Texture: {fileID: 2800000, guid: e0c51c9d580b0f446b5cc88d1b107a72, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1c2e7da9b7e9d644fa40173ee0928926, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample2:
-        m_Texture: {fileID: 2800000, guid: 9bc6a67813fa9944d88a826c25a31cb3, type: 3}
+        m_Texture: {fileID: 2800000, guid: a0dcf9baa483ba147be6d84443c1a401, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -99,24 +91,16 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _Dissolve: 6.084421
-    - _Dissolve_Power: 0.718
     - _DstBlend: 0
-    - _Emission: 0
-    - _Float0: 2
-    - _Float1: 2
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Largeur_Outline: 0.05
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _OffsetValue: 0
-    - _Opacity_Strength: 0.42
+    - _Opacity: 1
     - _Parallax: 0.02
-    - _Range: 16.48606
-    - _Rimlight: 3.47
+    - _Power: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -124,19 +108,13 @@ Material:
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color0: {r: 0, g: 1.582753, b: 3.435294, a: 0}
+    - _Color: {r: 3.1320755, g: 1.7054234, b: 0.42635584, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GlowColor: {r: 0, g: 1.582753, b: 3.435294, a: 0}
-    - _Speed_Noise_1: {r: -2, g: 0, b: 0, a: 0}
-    - _Speed_Noise_2: {r: 2, g: 0, b: 0, a: 0}
-    - _Speed_Noise_Secondary: {r: -0.5, g: 0.1, b: 0, a: 0}
-    - _Speed_Noise_Secondary1: {r: 0, g: 0, b: 0, a: 0}
-    - _Speed_Panner_1: {r: 1, g: 1, b: 0, a: 0}
-    - _Speed_Panner_2: {r: 1, g: 1, b: 0, a: 0}
-    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Speed_Noise_1: {r: 0.5, g: -0.5, b: 0, a: 0}
+    - _Speed_Noise_2: {r: 0.5, g: -1, b: 0, a: 0}
+    - _Speed_Noise_Secondary: {r: -1, g: -1, b: 0, a: 0}
+    - _Speed_Noise_Secondary1: {r: 0.1, g: -1, b: 0, a: 0}
     - _Tiling_Noise_1: {r: 1, g: 1, b: 0, a: 0}
-    - _Tiling_Noise_2: {r: 1, g: 0, b: 0, a: 0}
-    - _Tiling_Noise_Secondary: {r: 1, g: 1, b: 0, a: 0}
-    - _Tiling_Noise_Secondary1: {r: 0, g: 0, b: 0, a: 0}
-    - _Vector0: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling_Noise_2: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling_Noise_Secondary: {r: 3, g: 1, b: 0, a: 0}
+    - _Tiling_Noise_Secondary1: {r: 1, g: 1, b: 0, a: 0}
